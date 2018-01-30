@@ -8,5 +8,5 @@ if __name__ == '__main__':
     
     print(datetime.utcnow().replace(hour=0, minute=0, second=0, microsecond=0))
 
-    #import ipdb; ipdb.set_trace() # debugging code
+    import ipdb; ipdb.set_trace() # debugging code
 
