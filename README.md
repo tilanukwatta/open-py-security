@@ -1,6 +1,6 @@
-# open-py-security
+# trivyol-open-cam
 
-This is open source python library for home security using open source Raspberry Pi computer and accessories. 
+This repository is for the Trivyol Open Cam project where people can use open source Raspberry pi SBC (single board computer) to uploaded photos to the Trivyol system.
 
 
 ## Installation and Setup
