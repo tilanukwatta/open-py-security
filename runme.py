@@ -14,8 +14,9 @@ if __name__ == '__main__':
     record = True
     while record:
       image_name = "image.jpg"
-      camera.capture()
-      time.sleep(60)  
+      camera.capture(image_name)
+      record = False
+      #time.sleep(60)  
 
     #import ipdb; ipdb.set_trace() # debugging code
 
